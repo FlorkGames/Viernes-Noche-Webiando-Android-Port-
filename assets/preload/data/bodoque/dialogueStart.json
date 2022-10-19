@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Hola soy Derker bluer interpretando a Bodoque de 31 minutos por que Alvaro Diaz dijo que no",
+			"boxState": "normal",
+			"sound": "queno",
+			"speed": 0,
+			"portrait": "drukis"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Que? Una batalla de rap?",
+			"boxState": "normal",
+			"sound": "que",
+			"speed": 0,
+			"portrait": "bodoque"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Bap!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "A, tu debes ser ese mono feo que mis sobrinos juegan en el computador",
+			"boxState": "normal",
+			"sound": "monofeo",
+			"speed": 0,
+			"portrait": "bodoque"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Bip!",
+			"boxState": "normal",
+			"sound": "bf2",
+			"speed": 0,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "No termino de entenderlo, pero si mis sobrinos te conocen debe de ser por que tienes mucha plata",
+			"boxState": "normal",
+			"sound": "plata",
+			"speed": 0,
+			"portrait": "bodoque"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "ademas una batalla de rap suena a una apuesta que puedo ganar",
+			"boxState": "normal",
+			"sound": "ganar",
+			"speed": 0,
+			"portrait": "bodoque"
+		}
+	],
+	"directory": "4"
+}
