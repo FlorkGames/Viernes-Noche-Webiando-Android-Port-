@@ -1,0 +1,154 @@
+{
+	"dialogue": [
+		{
+			"expression": "enojao",
+			"backImage": "0",
+			"text": "Ya par de weoncitos venga pa aca",
+			"boxState": "normal",
+			"sound": "1",
+			"speed": 0,
+			"portrait": "papito"
+		},
+		{
+			"expression": "talk",
+			"backImage": "0",
+			"text": "Bap bop",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "2",
+			"speed": 0,
+			"portrait": "bf"
+		},
+		{
+			"expression": "feliz",
+			"backImage": "0",
+			"text": "Dale po tengo hambre ponte vio y anda traer carbon del unimarc pal asaito po weon",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "3",
+			"speed": 0,
+			"portrait": "papito"
+		},
+		{
+			"expression": "excited",
+			"backImage": "1",
+			"text": "bap",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "4",
+			"speed": 0,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "2",
+			"text": "¿Donde estara el carbon?",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "5",
+			"speed": 0,
+			"portrait": "gf"
+		},
+		{
+			"expression": "pissed",
+			"backImage": "4",
+			"text": "Bap!",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "4",
+			"speed": 0,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "3",
+			"text": "Por la rechucha que es inutil mi polo-",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "7",
+			"speed": 0,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"backImage": "3",
+			"text": "Bobepibep bapara bupbiap!",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "8",
+			"speed": 0,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "5",
+			"text": "¡A VER CHUCHETUMARE! ¿Como me veni a decir eso?",
+			"voice": "",
+			"boxState": "angry",
+			"sound": "9",
+			"speed": 0,
+			"portrait": "Ivette"
+		},
+		{
+			"expression": "what",
+			"backImage": "7",
+			"text": "Huh? ¿Que haces aqui enano?",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "10",
+			"speed": 0,
+			"portrait": "maavo"
+		},
+		{
+			"expression": "shocked",
+			"backImage": "7",
+			"text": "Beep...",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "11",
+			"speed": 0,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"backImage": "8",
+			"text": "¡HOLA CHIQUITIN! ¿Te acuerdas de mi?",
+			"voice": "0",
+			"boxState": "normal",
+			"sound": "12",
+			"speed": 0,
+			"portrait": "maritza"
+		},
+		{
+			"expression": "confused",
+			"backImage": "9",
+			"text": "...???",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "13",
+			"speed": 0,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"backImage": "10",
+			"text": "Viniste por revancha? muy mal, porque toi' mas que lista!",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "14",
+			"speed": 0,
+			"portrait": "maritza"
+		},
+		{
+			"expression": "talk",
+			"backImage": "10",
+			"text": "Esperen ¿no saben donde esta el carbon?",
+			"voice": "15",
+			"boxState": "normal",
+			"sound": "15",
+			"speed": 0,
+			"portrait": "gf"
+		}
+	],
+	"directory": "1maritza"
+}
