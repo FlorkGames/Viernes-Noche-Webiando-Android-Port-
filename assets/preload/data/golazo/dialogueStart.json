@@ -1,0 +1,131 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"backImage": "1",
+			"text": "Wow, no sabia que se podia bailar la cueca asi",
+			"boxState": "normal",
+			"sound": "Shaggy01",
+			"speed": 0,
+			"portrait": "maritza"
+		},
+		{
+			"expression": "normal",
+			"backImage": "1",
+			"text": "Es porque eso no fue cueca...",
+			"boxState": "normal",
+			"sound": "Shaggy02",
+			"speed": 0,
+			"portrait": "Ivette"
+		},
+		{
+			"expression": "Funny",
+			"backImage": "1",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "Shaggy03",
+			"speed": 0,
+			"portrait": "maritza"
+		},
+		{
+			"expression": "hungry",
+			"backImage": "2",
+			"text": "¿Donde estaran los chorizos?",
+			"boxState": "normal",
+			"sound": "Shaggy04",
+			"speed": 0,
+			"portrait": "ScoobyDou"
+		},
+		{
+			"expression": "excited",
+			"backImage": "3",
+			"text": "¡Scooby! ¡Scooby! Chucha ahi estai amigo",
+			"boxState": "normal",
+			"sound": "Shaggy05",
+			"speed": 0,
+			"portrait": "Shaggy"
+		},
+		{
+			"expression": "normal",
+			"backImage": "4",
+			"text": "¿Shaggy? ¿Scooby? ¿Wena, que hacen ustedes dos aqui?",
+			"boxState": "normal",
+			"sound": "Shaggy06",
+			"speed": 0,
+			"portrait": "maavo"
+		},
+		{
+			"expression": "talk",
+			"backImage": "5",
+			"text": "Pos que mas po? Aqui comprando cosas pa la previa amigo",
+			"boxState": "normal",
+			"sound": "Shaggy07",
+			"speed": 0,
+			"portrait": "Shaggy"
+		},
+		{
+			"expression": "talk",
+			"backImage": "5",
+			"text": "Wena po Shaggy encontre el pasillo de los fiambres",
+			"boxState": "normal",
+			"sound": "Shaggy08",
+			"speed": 0,
+			"portrait": "ScoobyDou"
+		},
+		{
+			"expression": "excited",
+			"backImage": "7",
+			"text": "Caracoles Scooby, deja de dar hambre",
+			"boxState": "normal",
+			"sound": "Shaggy09",
+			"speed": 0,
+			"portrait": "Shaggy"
+		},
+		{
+			"expression": "excited",
+			"backImage": "7",
+			"text": "Beep",
+			"boxState": "normal",
+			"sound": "Shaggy10",
+			"speed": 0,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "7",
+			"text": "Oh tu tambien estas aqui viejo, ya que estamos ¿No te parece que probemos que tan fuerte te has vuelto?",
+			"boxState": "normal",
+			"sound": "Shaggy11",
+			"speed": 0,
+			"portrait": "Shaggy"
+		},
+		{
+			"expression": "talk",
+			"backImage": "9",
+			"text": "Momento, solo queremos carbon",
+			"boxState": "normal",
+			"sound": "Shaggy12",
+			"speed": 0,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "8",
+			"text": "Boop",
+			"boxState": "normal",
+			"sound": "Shaggy13",
+			"speed": 0,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"backImage": "6",
+			"text": "Muy bien, pero dejame advertirte que no soy el mismo cuando tengo hambre",
+			"boxState": "normal",
+			"sound": "Shaggy14",
+			"speed": 0,
+			"portrait": "shaggy"
+		}
+	],
+	"directory": "2shaggy"
+}
