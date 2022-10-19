@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-251,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-95,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-165,
+				-452
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dowm"
+		},
+		{
+			"offsets": [
+				-190,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-193,
+				-161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/VipperChileno",
+	"position": [
+		-180,
+		-90
+	],
+	"healthicon": "vipper",
+	"flip_x": false,
+	"healthbar_colors": [
+		219,
+		109,
+		79
+	],
+	"camera_position": [
+		0,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

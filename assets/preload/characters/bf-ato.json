@@ -102,50 +102,6 @@
 		{
 			"loop": false,
 			"offsets": [
-				-16,
-				-97
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF NOTE LEFT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-50,
-				-145
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF NOTE DOWN0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-77,
-				-85
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "BF NOTE UP0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-86,
-				-92
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF NOTE RIGHT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
 				-40,
 				-95
 			],
@@ -161,7 +117,7 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN-alt",
+			"anim": "singDOWN",
 			"indices": [],
 			"name": "BF NOTE DOWN-alt"
 		},
@@ -172,7 +128,7 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singUP-alt",
+			"anim": "singUP",
 			"indices": [],
 			"name": "BF NOTE UP-alt"
 		},
@@ -183,7 +139,7 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT-alt",
+			"anim": "singRIGHT",
 			"indices": [],
 			"name": "BF NOTE RIGHT-alt"
 		},
@@ -194,7 +150,7 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT-alt",
+			"anim": "singLEFT",
 			"indices": [],
 			"name": "BF NOTE LEFT-alt"
 		},

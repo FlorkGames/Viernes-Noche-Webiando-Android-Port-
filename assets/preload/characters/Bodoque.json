@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-25,
+				126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Guitarra"
+		},
+		{
+			"offsets": [
+				-70,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				1050,
+				785
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "Intro"
+		},
+		{
+			"offsets": [
+				-23,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Arriba"
+		},
+		{
+			"offsets": [
+				-94,
+				119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				17,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-38,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Abajo"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bodoque",
+	"position": [
+		80,
+		420
+	],
+	"healthicon": "bodoque",
+	"flip_x": false,
+	"healthbar_colors": [
+		193,
+		91,
+		78
+	],
+	"camera_position": [
+		0,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

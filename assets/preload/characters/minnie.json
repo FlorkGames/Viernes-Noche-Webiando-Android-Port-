@@ -2,63 +2,63 @@
 	"animations": [
 		{
 			"offsets": [
-				-9,
-				10
+				-136,
+				-303
 			],
 			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
+			"name": "Pendeja LEFT",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				-30
+				-101,
+				-330
 			],
 			"loop": false,
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Dad Sing Note DOWN",
+			"name": "Pendeja DOWN",
 			"indices": []
 		},
 		{
 			"offsets": [
-				-6,
-				50
+				-147,
+				-323
 			],
 			"loop": false,
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Dad Sing Note UP",
+			"name": "Pendeja UP",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				27
+				-150,
+				-339
 			],
 			"loop": false,
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
+			"name": "Pendeja RIGHT",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-130,
+				-327
 			],
 			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "Dad idle dance",
+			"name": "Pendeja IDLE",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-130,
+				-327
 			],
 			"loop": true,
 			"fps": 24,
@@ -69,12 +69,12 @@
 				12,
 				12
 			],
-			"name": "Dad idle dance"
+			"name": "Pendeja IDLE"
 		},
 		{
 			"offsets": [
-				-9,
-				10
+				-136,
+				-303
 			],
 			"loop": true,
 			"fps": 24,
@@ -85,12 +85,12 @@
 				14,
 				15
 			],
-			"name": "Dad Sing Note LEFT"
+			"name": "Pendeja LEFT"
 		},
 		{
 			"offsets": [
-				0,
-				27
+				-136,
+				-303
 			],
 			"loop": true,
 			"fps": 24,
@@ -101,12 +101,12 @@
 				17,
 				18
 			],
-			"name": "Dad Sing Note RIGHT"
+			"name": "Pendeja RIGHT"
 		},
 		{
 			"offsets": [
-				-6,
-				50
+				-136,
+				-303
 			],
 			"loop": true,
 			"fps": 24,
@@ -117,25 +117,25 @@
 				58,
 				59
 			],
-			"name": "Dad Sing Note UP"
+			"name": "Pendeja UP"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DADDY_DEAREST",
+	"image": "characters/minnie/minnie_maricona",
 	"position": [
 		0,
-		0
+		20
 	],
-	"healthicon": "dad",
+	"healthicon": "maracaculia",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		206,
+		160,
+		251
 	],
 	"camera_position": [
-		0,
-		0
+		10,
+		600
 	],
 	"sing_duration": 6.1,
 	"scale": 1

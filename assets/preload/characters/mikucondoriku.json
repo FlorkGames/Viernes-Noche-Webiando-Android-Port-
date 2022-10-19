@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				2
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Miku Sing Note DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				51
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Miku Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				-89
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Miku IZQUIERDA ALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-2
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Miku DERECHA ALT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Miku idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				59,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Miku Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-59,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Miku Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mikuChilean",
+	"position": [
+		-140,
+		10
+	],
+	"healthicon": "miku",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		205,
+		204
+	],
+	"camera_position": [
+		100,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

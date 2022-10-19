@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF Idle"
+		},
+		{
+			"offsets": [
+				44,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF Left Miss"
+		},
+		{
+			"offsets": [
+				-12,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF Down Miss"
+		},
+		{
+			"offsets": [
+				-16,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF Up Miss"
+		},
+		{
+			"offsets": [
+				-56,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				32
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF Right Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_Espaldas_Assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

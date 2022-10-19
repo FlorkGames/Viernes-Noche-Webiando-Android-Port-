@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				-366
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "shaggy_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-201,
+				-490
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "downshaggy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-431
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftshaggy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-213,
+				-343
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upshaggy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-263,
+				-420
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightshaggy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-150
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "bdownshagg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				199,
+				-160
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "bleftshagg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-147
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "bupshaggy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-171
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "brightshagg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				-162
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "bshagg_idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shaggychileno",
+	"position": [
+		60,
+		-30
+	],
+	"healthicon": "icon-shaggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-50,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 2.8
+}

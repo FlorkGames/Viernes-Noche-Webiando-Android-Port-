@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				167
+			],
+			"anim": "singUP-alt",
+			"fps": 31,
+			"name": "maritza_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				166
+			],
+			"anim": "singDOWN-alt",
+			"fps": 30,
+			"name": "maritza_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				165
+			],
+			"anim": "singLEFT-alt",
+			"fps": 30,
+			"name": "maritza_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				171
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 30,
+			"name": "maritza_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				166
+			],
+			"anim": "singDOWN",
+			"fps": 25,
+			"name": "maritza_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				167
+			],
+			"anim": "singUP",
+			"fps": 25,
+			"name": "maritza_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				165
+			],
+			"anim": "singLEFT",
+			"fps": 25,
+			"name": "maritza_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				171
+			],
+			"anim": "singRIGHT",
+			"fps": 25,
+			"name": "maritza_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				29
+			],
+			"anim": "danceLeft",
+			"fps": 16,
+			"name": "maritza_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				29
+			],
+			"anim": "danceRight",
+			"fps": 16,
+			"name": "maritza_danceright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/maritza-noche",
+	"position": [
+		0,
+		365
+	],
+	"healthicon": "maritza",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		82,
+		228
+	],
+	"camera_position": [
+		130,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

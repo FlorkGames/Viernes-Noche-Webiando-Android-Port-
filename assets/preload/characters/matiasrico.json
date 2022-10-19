@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				49,
+				-228
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Matt Idle"
+		},
+		{
+			"offsets": [
+				27,
+				-348
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Matt Down"
+		},
+		{
+			"offsets": [
+				218,
+				-148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Matt Left"
+		},
+		{
+			"offsets": [
+				18,
+				-192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Matt Up"
+		},
+		{
+			"offsets": [
+				-23,
+				-296
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Matt Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mattsinpolera_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-matt",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		165,
+		0
+	],
+	"camera_position": [
+		-10,
+		370
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

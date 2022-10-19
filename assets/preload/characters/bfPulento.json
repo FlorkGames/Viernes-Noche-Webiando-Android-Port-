@@ -1,0 +1,233 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-130,
+				-150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bfidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-215
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bfleft",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-73
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf miss arriba",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-242,
+				-188
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "b miss derecha",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-260
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bfdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-165,
+				-115
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bfup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				-184
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bfright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-207
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf miss izquierda",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-151
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "bf dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-45,
+				-554
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "bf dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-554
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "bf dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-175,
+				-264
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf miss abajo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				-188
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf miss derecha",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-178,
+				-260
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bfdown0",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				-110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bfup0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfpul",
+	"position": [
+		80,
+		390
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		350,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

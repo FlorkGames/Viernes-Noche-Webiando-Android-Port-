@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-225,
+				-216
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "minnie idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-710,
+				-375
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "minnie right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				-270
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "minnie left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-490,
+				-535
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "minnie down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-170
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "minnie up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minnie/minnie",
+	"position": [
+		-490,
+		-360
+	],
+	"healthicon": "minnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		51,
+		255
+	],
+	"camera_position": [
+		500,
+		530
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

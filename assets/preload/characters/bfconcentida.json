@@ -17,7 +17,7 @@
 				-23,
 				-91
 			],
-			"anim": "singLEFTmiss",
+			"anim": "singLEFTmiss-alt",
 			"fps": 24,
 			"name": "BF NOTE LEFT MISS",
 			"indices": []
@@ -28,7 +28,7 @@
 				-45,
 				-133
 			],
-			"anim": "singDOWNmiss",
+			"anim": "singDOWNmiss-alt",
 			"fps": 24,
 			"name": "BF NOTE DOWN MISS",
 			"indices": []
@@ -39,7 +39,7 @@
 				-81,
 				-90
 			],
-			"anim": "singUPmiss",
+			"anim": "singUPmiss-alt",
 			"fps": 24,
 			"name": "BF NOTE UP MISS",
 			"indices": []
@@ -50,7 +50,7 @@
 				-84,
 				-88
 			],
-			"anim": "singRIGHTmiss",
+			"anim": "singRIGHTmiss-alt",
 			"fps": 24,
 			"name": "BF NOTE RIGHT MISS",
 			"indices": []
