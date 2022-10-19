@@ -1,0 +1,99 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"backImage": "ViernesNoche2",
+			"text": "Ya no se que esperar de ti. Cada ano me sorprendes",
+			"boxState": "normal",
+			"sound": "matias1",
+			"speed": 0,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "hungry",
+			"backImage": "ViernesNoche3",
+			"text": "Shaggy! ya esta listo el costillar shaggy",
+			"boxState": "normal",
+			"sound": "matias2",
+			"speed": 0,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "excited",
+			"backImage": "ViernesNoche4",
+			"text": "Bueno cauros, estuvo piola juntarnos, chao culiaos. SCOOBY!",
+			"boxState": "normal",
+			"sound": "matias3",
+			"speed": 0,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "talk",
+			"backImage": "ViernesNoche5",
+			"text": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "talk",
+			"backImage": "ViernesNoche6",
+			"text": "Parece que te queda una revancha mas",
+			"boxState": "normal",
+			"sound": "matias4",
+			"speed": 0,
+			"portrait": "nadie"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"backImage": "ViernesNoche7",
+			"portrait": "nadie",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"backImage": "ViernesNoche8",
+			"portrait": "nadie",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": ""
+		},
+		{
+			"expression": "talk",
+			"backImage": "ViernesNoche9",
+			"text": "Chuchamadre",
+			"boxState": "normal",
+			"sound": "matias5",
+			"speed": 0,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "excited",
+			"backImage": "ViernesNoche10",
+			"text": "C A G A S T E",
+			"voice": "33",
+			"boxState": "normal",
+			"sound": "CAGASTE",
+			"speed": 0,
+			"portrait": "nadie"
+		},
+		{
+			"expression": "excited",
+			"backImage": "ViernesNoche10",
+			"text": "",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0,
+			"portrait": "nadie"
+		}
+	],
+	"directory": "4revancha"
+}
