@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"backImage": "3",
+			"text": "pucha que cantai de pana Shaggy",
+			"boxState": "normal",
+			"sound": "Matt01",
+			"speed": 0,
+			"portrait": "ScoobyDou"
+		},
+		{
+			"expression": "excited",
+			"backImage": "3",
+			"text": "Lo se scoob, nada mal muchacho, bueno si nos disculpan tenemos un pasillo entero que vaciar",
+			"boxState": "normal",
+			"sound": "Matt02",
+			"speed": 0,
+			"portrait": "Shaggy"
+		},
+		{
+			"expression": "shocked",
+			"backImage": "4",
+			"text": "¿Quien chucha vacio el pasillo 3?",
+			"boxState": "normal",
+			"sound": "Matt03",
+			"speed": 0,
+			"portrait": "matt"
+		},
+		{
+			"expression": "excited",
+			"backImage": "4",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "Matt04",
+			"speed": 0,
+			"portrait": "ScoobyDou"
+		},
+		{
+			"expression": "excited",
+			"backImage": "1",
+			"text": "Wena po pelao ¿como hay estao po weon?",
+			"boxState": "normal",
+			"sound": "Matt05",
+			"speed": 0,
+			"portrait": "Shaggy"
+		},
+		{
+			"expression": "confused",
+			"backImage": "1",
+			"text": "Po haciendo las compras pal asaito como todos,¿que hace ese enano ahi?",
+			"boxState": "normal",
+			"sound": "Matt06",
+			"speed": 0,
+			"portrait": "matt"
+		},
+		{
+			"expression": "pissed",
+			"backImage": "1",
+			"text": "Beep Boop",
+			"boxState": "normal",
+			"sound": "Matt07",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "2",
+			"text": "Por la cresta ¿no podemos pasar una semana, UNA sin que te enfrentes a estos weones? Mas encima son siempre 3 canciones y todas las veces les partes la raja porfavor solo queremos carbon por la rechucha. desenvuelvete frugele conchetumare aaaaaaaaargrhghrfgjrgrgjksahdfnasdkngksdhfgnjkasdfnhekwlhdsahglasdhfrslfhdnshfldsda",
+			"boxState": "normal",
+			"sound": "Matt08",
+			"speed": 0,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"backImage": "2",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "Matt09",
+			"speed": 0,
+			"portrait": "maavo"
+		},
+		{
+			"expression": "talk",
+			"backImage": "2",
+			"text": "¿Sabes? tambien necesito carbon, acabemos con esto rapido",
+			"boxState": "normal",
+			"sound": "Matt10",
+			"speed": 0,
+			"portrait": "matt"
+		}
+	],
+	"directory": "3matt"
+}
