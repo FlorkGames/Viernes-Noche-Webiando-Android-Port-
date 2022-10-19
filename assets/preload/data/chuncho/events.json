@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "bgnoche",
+		"player1": "bf",
+		"player2": "shaggy",
+		"player3": null,
+		"events": [
+			[
+				2000.3333333333333,
+				[
+					[
+						"Sion",
+						"uno",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "chuncho"
+	}
+}

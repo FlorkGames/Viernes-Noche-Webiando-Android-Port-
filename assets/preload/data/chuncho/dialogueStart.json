@@ -1,0 +1,107 @@
+{
+	"dialogue": [
+		{
+			"backImage": "ViernesNochewebiando1",
+			"expression": "talk",
+			"text": "SI! lo ven?, Ahora si Gane",
+			"boxState": "normal",
+			"portrait": "nadie",
+			"speed": 0,
+			"sound": "Shaggyinsano1"
+		},
+		{
+			"backImage": "ViernesNochewebiando2",
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "nadie",
+			"speed": 0,
+			"sound": "Shaggyinsano2"
+		},
+		{
+			"backImage": "ViernesNochewebiando2",
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"voice": "",
+			"portrait": "nadie",
+			"speed": 0,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNochewebiando3",
+			"expression": "normal",
+			"text": "De hecho...",
+			"boxState": "normal",
+			"portrait": "nadie",
+			"speed": 0,
+			"sound": "Shaggyinsano3"
+		},
+		{
+			"backImage": "ViernesNochewebiando4",
+			"expression": "what",
+			"text": "No se lo arruines",
+			"boxState": "normal",
+			"portrait": "nadie",
+			"speed": 0,
+			"sound": "Shaggyinsano4"
+		},
+		{
+			"backImage": "ViernesNochewebiando5",
+			"expression": "talk",
+			"text": "Bueno vas tu o voy yo?",
+			"boxState": "normal",
+			"portrait": "nadie",
+			"speed": 0,
+			"sound": "Shaggyinsano5"
+		},
+		{
+			"backImage": "ViernesNochewebiando6",
+			"expression": "excited",
+			"text": "Dejamelo a mi resfalin de piojos.",
+			"boxState": "normal",
+			"portrait": "nadie",
+			"speed": 0,
+			"sound": "Shaggyinsano6"
+		},
+		{
+			"expression": "talk",
+			"backImage": "ViernesNocheWebiando7",
+			"text": "Te lo deje facilito el ano pasado pero ahora vengo con los temas mas sutros",
+			"boxState": "normal",
+			"sound": "Shaggyinsano61",
+			"speed": 0,
+			"portrait": "nadie"
+		},
+		{
+			"backImage": "ViernesNochewebiando8",
+			"expression": "pissed",
+			"text": "xuxa",
+			"boxState": "normal",
+			"voice": "",
+			"portrait": "nadie",
+			"speed": 0,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNochewebiando9",
+			"expression": "pissed",
+			"text": "PREPARATE,  CONCHETUMARE",
+			"boxState": "normal",
+			"portrait": "nadie",
+			"speed": 0,
+			"sound": "Shaggyinsano7"
+		},
+		{
+			"backImage": "",
+			"expression": "pissed",
+			"text": "",
+			"boxState": "normal",
+			"voice": "27",
+			"portrait": "nadie",
+			"speed": 0,
+			"sound": ""
+		}
+	],
+	"directory": "4revancha"
+}
