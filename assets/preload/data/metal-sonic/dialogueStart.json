@@ -1,0 +1,80 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Finalmente, algo de paz el dia de hoy",
+			"boxState": "normal",
+			"sound": "paz",
+			"speed": 0,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Beep Bap Bo, Bo Bee Bap",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Como?",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "sonido",
+			"speed": 0,
+			"portrait": "metal"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Ay no conchetumare me voy a matar en vivo",
+			"boxState": "normal",
+			"sound": "matarenvivo",
+			"speed": 0,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Como que hot-dog aweonao? que te crei gringo aweonao,enano culiao perkin como te veni a pedir senda wea pedazo de gil pasao a raja",
+			"boxState": "normal",
+			"sound": "completo",
+			"speed": 0,
+			"portrait": "metal"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "bee-",
+			"voice": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"backImage": "",
+			"text": "Quee te crei choro,mira el saquito de wea ni hablai bien por algo teniai de pololo al weon que se llamaba pico pq eri un weon weno pal PICO, como el sonic,asi igual de gringo y de weon si segui asi ctm te voy a sacar la re ctm enano qliao maricon de a peso weno pa la tula",
+			"boxState": "normal",
+			"sound": "insultosalobastardo",
+			"speed": 0,
+			"portrait": "metal"
+		},
+		{
+			"backImage": "",
+			"expression": "talk",
+			"text": "Oye pero quien cresta le dice hot-dogs a los completos",
+			"boxState": "normal",
+			"portrait": "huerfano",
+			"speed": 0,
+			"sound": "lloncito"
+		}
+	],
+	"directory": "5sonic"
+}
