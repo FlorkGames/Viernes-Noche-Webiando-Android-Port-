@@ -1,0 +1,206 @@
+{
+	"dialogue": [
+		{
+			"backImage": "0",
+			"expression": "pissed",
+			"text": "Beep bop!",
+			"boxState": "normal",
+			"voice": "",
+			"portrait": "bf",
+			"speed": 0,
+    	    "sound": ""
+		},
+		{
+			"backImage": "0",
+			"expression": "talk",
+			"text": "Te pasaste, por una vez la estamos pasando bien y no ocurre nada malo",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0,
+			"sound": "Maritza01"
+		},
+		{
+			"backImage": "1",
+			"expression": "happy",
+			"text": "NO PUEDE SER!",
+			"boxState": "normal",
+			"portrait": "maritza",
+			"speed": 0,
+			"sound": "Maritza02"
+		},
+		{
+			"backImage": "2",
+			"expression": "talk",
+			"text": "Puta la wea",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0,
+			"sound": "Maritza03"
+		},
+		{
+			"backImage": "3",
+			"expression": "excited",
+			"text": "Boyfriend?",
+			"boxState": "normal",
+			"portrait": "matt",
+			"speed": 0,
+		    "sound": "Maritza04"
+		},
+		{
+			"backImage": "3",
+			"expression": "excited",
+			"text": "Weeeena po enano culio",
+			"boxState": "normal",
+			"portrait": "shaggy",
+			"speed": 0,
+		    "sound": "Maritza05"
+		},
+		{
+			"backImage": "3",
+			"expression": "normal",
+			"text": "Boyfriend! Tanto tiempo man!",
+			"boxState": "normal",
+			"portrait": "maavo",
+			"speed": 0,
+		    "sound": "Maritza06"
+		},
+		{
+			"backImage": "3",
+			"expression": "happy",
+			"text": "CHIQUITIN! ",
+			"boxState": "normal",
+			"portrait": "maritza",
+			"speed": 0,
+		     "sound": "Maritza07"
+		},
+		{
+			"backImage": "3",
+			"expression": "normal",
+			"text": "Hay alguna parte en la que no esten?",
+			"boxState": "normal",
+			"portrait": "ivette",
+			"speed": 0,
+		  "sound": "Maritza08"
+		},
+		{
+			"backImage": "3",
+			"expression": "normal",
+			"text": "Ay vamos, no seas pesada",
+			"boxState": "normal",
+			"portrait": "maavo",
+			"speed": 0,
+		   "sound": "Maritza09"
+		},
+		{
+			"backImage": "3",
+			"expression": "normal",
+			"text": "...Ya si igual los extrane",
+			"boxState": "normal",
+			"portrait": "ivette",
+			"speed": 0,
+		  "sound": "Maritza10"
+		},
+		{
+			"backImage": "3",
+			"expression": "talk",
+			"text": "No voy a mentir wn, los extrane",
+			"boxState": "normal",
+			"portrait": "matt",
+			"speed": 0,
+		  "sound": "Maritza11"
+		},
+		{
+			"backImage": "3",
+			"expression": "excited",
+			"text": "Beep Bop!",
+			"boxState": "normal",
+			"voice": "",
+			"portrait": "bf",
+			"speed": 0,
+		  "sound": ""
+		},
+		{
+			"backImage": "4",
+			"expression": "talk",
+			"text": "LA RECONCHA DE TU PERRISIMA MADRE BOYFRIEND TODOS LAS VECES LA MISMA WEA POR FAVOR ESTOY CHATA VAMONOS DE AQUI",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0,
+		  "sound": "Maritza12"
+		},
+		{
+			"backImage": "4",
+			"expression": "shocked",
+			"text": "Oe girlfrend callate conchetumare queate' piola,la cuestion no va a tomar ni 10 minutos",
+			"boxState": "normal",
+			"portrait": "shaggy",
+			"speed": 0,
+		  "sound": "Maritza13"
+		},
+		{
+			"backImage": "5",
+			"expression": "talk",
+			"text": "Entonces lo hacemo' como la ves pasada?",
+			"boxState": "normal",
+			"portrait": "matt",
+			"speed": 0,
+		  "sound": "Maritza14"
+		},
+		{
+			"backImage": "5",
+			"expression": "talk",
+			"text": "SIIIIIIIII!",
+			"boxState": "normal",
+			"voice": "15",
+			"portrait": "maritza2",
+			"speed": 0,
+		   "sound": "Maritza15"
+		},
+				{
+			"backImage": "6",
+			"expression": "shocked",
+			"text": "yapo",
+			"boxState": "normal",
+			"portrait": "shaggy",
+			"speed": 0,
+		  "sound": "Maritza16"
+		},
+		{
+			"backImage": "6",
+			"expression": "talk",
+			"text": "Entonces vai vo primero, Maritza",
+			"boxState": "normal",
+			"portrait": "matt",
+			"speed": 0,
+		  "sound": "Maritza17"
+		},
+		{
+			"backImage": "6",
+			"expression": "talk",
+			"text": "(Llora)",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0,
+		  "sound": "Maritza18"
+		},
+		{
+			"backImage": "6",
+			"expression": "talk",
+			"text": "DALEEEE! Espero esti' listo enano",
+			"boxState": "normal",
+			"portrait": "maritza2",
+			"speed": 0,
+		    "sound": "Maritza19"
+		},
+		{
+			"backImage": "6",
+			"expression": "normal",
+			"text": "Sacale la cresta, Maritza!",
+			"boxState": "normal",
+			"portrait": "maavo",
+			"speed": 0,
+		  "sound": "Maritza20"
+		}
+	],
+	"directory": "4revancha"
+}
