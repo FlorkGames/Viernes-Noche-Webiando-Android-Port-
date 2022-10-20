@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "screwytalk",
+			"boxState": "caja",
+			"expression": "talk",
+			"voice": "",
+			"text": "Hey! ese choripan era mio weta"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": "bep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "screwytalk",
+			"boxState": "normal",
+			"expression": "excited",
+			"voice": "",
+			"text": "Hermano ando terrible bajonea pa que me caguis asi"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": "beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "Screwytalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": "Uy Habla bien mamerto, sabi que ma vamo a echar un beat y si ga-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": "beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "Screwytalk",
+			"boxState": "normal",
+			"expression": "excited",
+			"voice": "",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "Screwytalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": "Y si gano me das el choripan y me pagas un juego en la pesca magica"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": "skevedebap dap bap"
+		}
+	],
+	"directory": ""
+}
