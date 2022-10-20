@@ -1,0 +1,37 @@
+{
+	"position": [
+		30,
+		-140
+	],
+	"dialogue_pos": "left",
+	"scale": 0.549999999999999,
+	"image": "Ivette_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "angi",
+			"idle_name": "angiIdle"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "ivy",
+			"idle_name": "xd"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"position": [
+		150,
+		80
+	],
+	"dialogue_pos": "left",
+	"scale": 1.45,
+	"image": "Papito_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "papaFeli",
+			"idle_name": "papaFeliIdle"
+		},
+		{
+			"loop_offsets": [
+				1,
+				-1
+			],
+			"anim": "enojao",
+			"idle_offsets": [
+				1,
+				-1
+			],
+			"loop_name": "papaEnojao",
+			"idle_name": "papaEnojaoIdle"
+		}
+	]
+}

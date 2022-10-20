@@ -1,0 +1,63 @@
+{
+	"position": [
+		-280,
+		-360
+	],
+	"dialogue_pos": "left",
+	"scale": 0.349999999999999,
+	"image": "Shaggy_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				5,
+				0
+			],
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "ShaggNormalIdle",
+			"loop_name": "ShaggNormal"
+		},
+		{
+			"idle_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "ShaggHappyIdle",
+			"loop_name": "ShaggHappy"
+		},
+		{
+			"idle_offsets": [
+				5,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "ShaggFunny",
+			"loop_name": "ShaggFunny"
+		},
+		{
+			"idle_offsets": [
+				5,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "ShaggSadIdle",
+			"loop_name": "ShaggSad"
+		}
+	]
+}

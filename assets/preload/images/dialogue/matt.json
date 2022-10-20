@@ -1,0 +1,76 @@
+{
+	"position": [
+		-540,
+		-450
+	],
+	"dialogue_pos": "left",
+	"scale": 0.299999999999999,
+	"image": "Matt_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				5,
+				0
+			],
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "mattNormalIdle",
+			"loop_name": "mattNormal"
+		},
+		{
+			"idle_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "mattHappyIdle",
+			"loop_name": "mattHappy"
+		},
+		{
+			"idle_offsets": [
+				5,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "mattENPUTADOIdle",
+			"loop_name": "mattENPUTADO"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				5,
+				0
+			],
+			"loop_name": "mattWhat",
+			"idle_name": "mattWhatIdle"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				5,
+				0
+			],
+			"loop_name": "mattAngry",
+			"idle_name": "mattAngryIdle"
+		}
+	]
+}

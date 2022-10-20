@@ -1,0 +1,51 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		-80
+	],
+	"no_antialiasing": true,
+	"scale": 0.599999999999999,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				-1
+			],
+			"idle_name": "MavoIdle",
+			"loop_name": "Mavo"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "what",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "qwea",
+			"loop_name": "qweaIdle"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ScaredIdle",
+			"loop_name": "Scared"
+		}
+	],
+	"image": "Maavo_Dialogue"
+}
