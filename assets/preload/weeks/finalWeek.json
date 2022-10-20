@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "una",
+	"weekBefore": "weekPul",
+	"startUnlocked": true,
+	"difficulties": "Normal, pulenta",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Bodoque",
+			"bodoque",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Final Week"
+}

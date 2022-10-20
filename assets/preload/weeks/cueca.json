@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "una",
+	"weekBefore": "finalWeek",
+	"startUnlocked": true,
+	"difficulties": "Normal, pulenta",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"no-more-cueca",
+			"bf",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "cueca"
+}

@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "pulentos",
+	"weekBefore": "weekMiku",
+	"startUnlocked": true,
+	"difficulties": "Normal, pulenta",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"piantes",
+			"barry",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Pul"
+}
