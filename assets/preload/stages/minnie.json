@@ -1,0 +1,17 @@
+{
+	"directory": "",
+	"defaultZoom": 0.65,
+	"isPixelStage": false,
+
+	"boyfriend": [870, 140],
+	"girlfriend": [400, 130],
+	"opponent": [40, 140],
+	"hide_girlfriend": false,
+	"bfpulento": [880, 135],
+	"gfpulento": [400, 150],
+
+	"camera_boyfriend": [-260, -110],
+	"camera_opponent": [-80, -180],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 2.8
+}
