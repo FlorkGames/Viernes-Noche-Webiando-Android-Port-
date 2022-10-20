@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Publico_2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Moon Yirius0000" x="10" y="10" width="722" height="547" frameX="-2" frameY="-1" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0001" x="10" y="10" width="722" height="547" frameX="-2" frameY="-1" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0002" x="742" y="10" width="715" height="534" frameX="0" frameY="-14" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0003" x="742" y="10" width="715" height="534" frameX="0" frameY="-14" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0004" x="1467" y="10" width="713" height="532" frameX="-1" frameY="-16" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0005" x="1467" y="10" width="713" height="532" frameX="-1" frameY="-16" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0006" x="2190" y="10" width="718" height="539" frameX="-2" frameY="-9" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0007" x="2190" y="10" width="718" height="539" frameX="-2" frameY="-9" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0008" x="2918" y="10" width="721" height="546" frameX="-2" frameY="-2" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0009" x="2918" y="10" width="721" height="546" frameX="-2" frameY="-2" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0010" x="10" y="567" width="722" height="548" frameX="-2" frameY="0" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0011" x="10" y="567" width="722" height="548" frameX="-2" frameY="0" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0012" x="742" y="567" width="722" height="548" frameX="-2" frameY="0" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0013" x="742" y="567" width="722" height="548" frameX="-2" frameY="0" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0014" x="10" y="567" width="722" height="548" frameX="-2" frameY="0" frameWidth="724" frameHeight="548"/>
+	<SubTexture name="Moon Yirius0015" x="10" y="567" width="722" height="548" frameX="-2" frameY="0" frameWidth="724" frameHeight="548"/>
+</TextureAtlas>

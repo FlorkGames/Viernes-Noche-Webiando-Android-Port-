@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SHOWTIMEBOPPERS.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="maavoivette0000" x="10" y="10" width="329" height="358"/>
+	<SubTexture name="maavoivette0001" x="10" y="10" width="329" height="358"/>
+	<SubTexture name="maavoivette0002" x="349" y="10" width="329" height="358"/>
+	<SubTexture name="maavoivette0003" x="349" y="10" width="329" height="358"/>
+	<SubTexture name="maavoivette0004" x="10" y="378" width="329" height="358"/>
+	<SubTexture name="maavoivette0005" x="10" y="378" width="329" height="358"/>
+	<SubTexture name="maavoivette0006" x="10" y="378" width="329" height="358"/>
+	<SubTexture name="maavoivette0007" x="10" y="378" width="329" height="358"/>
+	<SubTexture name="maavoivette0008" x="10" y="378" width="329" height="358"/>
+	<SubTexture name="maavoivette0009" x="10" y="378" width="329" height="358"/>
+	<SubTexture name="maavoivette0010" x="10" y="378" width="329" height="358"/>
+	<SubTexture name="maavoivette0011" x="10" y="378" width="329" height="358"/>
+	<SubTexture name="maavoivette0012" x="10" y="378" width="329" height="358"/>
+	<SubTexture name="maavoivette0013" x="10" y="378" width="329" height="358"/>
+	<SubTexture name="maavoivette0014" x="10" y="378" width="329" height="358"/>
+	<SubTexture name="maavomaritzaivette0000" x="349" y="378" width="367" height="412"/>
+	<SubTexture name="maavomaritzaivette0001" x="349" y="378" width="367" height="412"/>
+	<SubTexture name="maavomaritzaivette0002" x="10" y="800" width="367" height="412"/>
+	<SubTexture name="maavomaritzaivette0003" x="10" y="800" width="367" height="412"/>
+	<SubTexture name="maavomaritzaivette0004" x="387" y="800" width="367" height="412"/>
+	<SubTexture name="maavomaritzaivette0005" x="387" y="800" width="367" height="412"/>
+	<SubTexture name="maavomaritzaivette0006" x="387" y="800" width="367" height="412"/>
+	<SubTexture name="maavomaritzaivette0007" x="387" y="800" width="367" height="412"/>
+	<SubTexture name="maavomaritzaivette0008" x="387" y="800" width="367" height="412"/>
+	<SubTexture name="maavomaritzaivette0009" x="387" y="800" width="367" height="412"/>
+	<SubTexture name="maavomaritzaivette0010" x="387" y="800" width="367" height="412"/>
+	<SubTexture name="maavomaritzaivette0011" x="387" y="800" width="367" height="412"/>
+	<SubTexture name="maavomaritzaivette0012" x="387" y="800" width="367" height="412"/>
+	<SubTexture name="maavomaritzaivette0013" x="387" y="800" width="367" height="412"/>
+	<SubTexture name="maavomaritzaivette0014" x="387" y="800" width="367" height="412"/>
+</TextureAtlas>

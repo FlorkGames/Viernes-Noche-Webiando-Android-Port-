@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="papus2.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="izquierda instance 10000" x="10" y="10" width="803" height="455"/>
+	<SubTexture name="izquierda instance 10001" x="823" y="10" width="803" height="455"/>
+	<SubTexture name="izquierda instance 10002" x="10" y="475" width="803" height="455"/>
+	<SubTexture name="izquierda instance 10003" x="823" y="475" width="803" height="455"/>
+	<SubTexture name="izquierda instance 10004" x="10" y="940" width="803" height="455"/>
+	<SubTexture name="izquierda instance 10005" x="823" y="940" width="803" height="455"/>
+	<SubTexture name="izquierda instance 10006" x="10" y="1405" width="803" height="455"/>
+	<SubTexture name="izquierda instance 10007" x="823" y="1405" width="803" height="455"/>
+	<SubTexture name="izquierda instance 10008" x="10" y="1870" width="803" height="455"/>
+	<SubTexture name="izquierda instance 10009" x="823" y="1870" width="803" height="455"/>
+	<SubTexture name="izquierda instance 10010" x="10" y="2335" width="803" height="455"/>
+	<SubTexture name="izquierda instance 10011" x="10" y="2335" width="803" height="455"/>
+	<SubTexture name="izquierda instance 10012" x="10" y="2335" width="803" height="455"/>
+	<SubTexture name="izquierda instance 10013" x="10" y="2335" width="803" height="455"/>
+</TextureAtlas>

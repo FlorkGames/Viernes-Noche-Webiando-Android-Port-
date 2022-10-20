@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="papus3.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="izquierda instance 10000" x="1200" y="784" width="584" height="374" frameX="-2" frameY="-5" frameWidth="586" frameHeight="380"/>
+	<SubTexture name="izquierda instance 10001" x="606" y="787" width="584" height="374" frameX="-2" frameY="-5" frameWidth="586" frameHeight="380"/>
+	<SubTexture name="izquierda instance 10002" x="1200" y="1168" width="585" height="372" frameX="-1" frameY="-7" frameWidth="586" frameHeight="380"/>
+	<SubTexture name="izquierda instance 10003" x="1200" y="400" width="585" height="374" frameX="-1" frameY="-5" frameWidth="586" frameHeight="380"/>
+	<SubTexture name="izquierda instance 10004" x="10" y="1178" width="586" height="374" frameX="0" frameY="-5" frameWidth="586" frameHeight="380"/>
+	<SubTexture name="izquierda instance 10005" x="604" y="400" width="586" height="377" frameX="0" frameY="-2" frameWidth="586" frameHeight="380"/>
+	<SubTexture name="izquierda instance 10006" x="10" y="790" width="586" height="378" frameX="0" frameY="-2" frameWidth="586" frameHeight="380"/>
+	<SubTexture name="izquierda instance 10007" x="10" y="10" width="586" height="380"/>
+	<SubTexture name="izquierda instance 10008" x="606" y="10" width="584" height="380" frameX="-1" frameY="0" frameWidth="586" frameHeight="380"/>
+	<SubTexture name="izquierda instance 10009" x="1200" y="10" width="584" height="380" frameX="-1" frameY="0" frameWidth="586" frameHeight="380"/>
+	<SubTexture name="izquierda instance 10010" x="10" y="400" width="584" height="380" frameX="-1" frameY="0" frameWidth="586" frameHeight="380"/>
+	<SubTexture name="izquierda instance 10011" x="10" y="400" width="584" height="380" frameX="-1" frameY="0" frameWidth="586" frameHeight="380"/>
+	<SubTexture name="izquierda instance 10012" x="10" y="400" width="584" height="380" frameX="-1" frameY="0" frameWidth="586" frameHeight="380"/>
+	<SubTexture name="izquierda instance 10013" x="10" y="400" width="584" height="380" frameX="-1" frameY="0" frameWidth="586" frameHeight="380"/>
+</TextureAtlas>
