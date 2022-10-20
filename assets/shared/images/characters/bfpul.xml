@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfpul.png">
+	
+	
+	<SubTexture name="b miss derecha0000" x="4" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0001" x="254" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0002" x="254" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0003" x="505" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0004" x="505" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0005" x="755" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0006" x="1006" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0007" x="1256" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0008" x="1256" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0009" x="1507" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0010" x="1757" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0011" x="2008" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0012" x="2008" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0013" x="2008" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0014" x="2258" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0015" x="2509" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0016" x="2759" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0017" x="3010" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0018" x="3260" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0019" x="3511" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0020" x="3761" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0021" x="3761" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0022" x="3761" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0023" x="3761" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0024" x="3761" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0025" x="3761" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0026" x="3761" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0027" x="3761" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0028" x="3761" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0029" x="3761" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0030" x="3761" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0031" x="3761" y="4" width="246" height="311" />
+	<SubTexture name="b miss derecha0032" x="3761" y="4" width="246" height="311" />
+	<SubTexture name="bf dead confirm0000" x="4" y="319" width="338" height="163" />
+	<SubTexture name="bf dead confirm0001" x="346" y="319" width="338" height="163" />
+	<SubTexture name="bf dead confirm0002" x="346" y="319" width="338" height="163" />
+	<SubTexture name="bf dead confirm0003" x="689" y="319" width="338" height="163" />
+	<SubTexture name="bf dead confirm0004" x="1031" y="319" width="338" height="163" />
+	<SubTexture name="bf dead confirm0005" x="1374" y="319" width="338" height="163" />
+	<SubTexture name="bf dead confirm0006" x="1716" y="319" width="338" height="163" />
+	<SubTexture name="bf dead confirm0007" x="2059" y="319" width="338" height="163" />
+	<SubTexture name="bf dead confirm0008" x="2401" y="319" width="338" height="163" />
+	<SubTexture name="bf dead confirm0009" x="2744" y="319" width="338" height="163" />
+	<SubTexture name="bf dead confirm0010" x="3086" y="319" width="338" height="163" />
+	<SubTexture name="bf dead confirm0011" x="3429" y="319" width="338" height="163" />
+	<SubTexture name="bf dead confirm0012" x="4" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0013" x="346" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0014" x="689" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0015" x="1031" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0016" x="1374" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0017" x="1716" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0018" x="2059" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0019" x="2401" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0020" x="2401" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0021" x="2401" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0022" x="2401" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0023" x="2744" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0024" x="2744" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0025" x="2744" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0026" x="2744" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0027" x="2744" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0028" x="2744" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0029" x="2744" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0030" x="2744" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0031" x="2744" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0032" x="2744" y="486" width="338" height="163" />
+	<SubTexture name="bf dead confirm0033" x="2744" y="486" width="338" height="163" />
+	<SubTexture name="bf dead loop0000" x="3086" y="486" width="327" height="163" />
+	<SubTexture name="bf dead loop0001" x="3418" y="486" width="327" height="163" />
+	<SubTexture name="bf dead loop0002" x="3418" y="486" width="327" height="163" />
+	<SubTexture name="bf dead loop0003" x="3749" y="486" width="327" height="163" />
+	<SubTexture name="bf dead loop0004" x="3749" y="486" width="327" height="163" />
+	<SubTexture name="bf dead loop0005" x="4" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0006" x="4" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0007" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0008" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0009" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0010" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0011" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0012" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0013" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0014" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0015" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0016" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0017" x="667" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0018" x="3418" y="486" width="327" height="163" />
+	<SubTexture name="bf dead loop0019" x="3418" y="486" width="327" height="163" />
+	<SubTexture name="bf dead loop0020" x="3749" y="486" width="327" height="163" />
+	<SubTexture name="bf dead loop0021" x="3749" y="486" width="327" height="163" />
+	<SubTexture name="bf dead loop0022" x="4" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0023" x="4" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0024" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0025" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0026" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0027" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0028" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0029" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0030" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0031" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0032" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dead loop0033" x="335" y="654" width="327" height="163" />
+	<SubTexture name="bf dies0000" x="998" y="654" width="328" height="364" />
+	<SubTexture name="bf dies0001" x="1331" y="654" width="328" height="364" />
+	<SubTexture name="bf dies0002" x="1663" y="654" width="328" height="364" />
+	<SubTexture name="bf dies0003" x="1996" y="654" width="328" height="364" />
+	<SubTexture name="bf dies0004" x="2328" y="654" width="328" height="364" />
+	<SubTexture name="bf dies0005" x="2661" y="654" width="328" height="364" />
+	<SubTexture name="bf dies0006" x="2993" y="654" width="328" height="364" />
+	<SubTexture name="bf dies0007" x="3326" y="654" width="328" height="364" />
+	<SubTexture name="bf dies0008" x="3326" y="654" width="328" height="364" />
+	<SubTexture name="bf dies0009" x="3658" y="654" width="328" height="364" />
+	<SubTexture name="bf dies0010" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0011" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0012" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0013" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0014" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0015" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0016" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0017" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0018" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0019" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0020" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0021" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0022" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0023" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0024" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0025" x="4" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0026" x="336" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0027" x="669" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0028" x="669" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0029" x="669" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0030" x="669" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0031" x="669" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0032" x="669" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0033" x="669" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0034" x="669" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0035" x="669" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0036" x="1001" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0037" x="1001" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0038" x="1001" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0039" x="1334" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0040" x="1334" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0041" x="1334" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0042" x="1334" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0043" x="1666" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0044" x="1666" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0045" x="1666" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0046" x="1666" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0047" x="1666" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0048" x="1999" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0049" x="1999" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0050" x="1999" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0051" x="1999" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0052" x="1999" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0053" x="2331" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0054" x="2331" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0055" x="2331" y="1022" width="328" height="364" />
+	<SubTexture name="bf dies0056" x="2331" y="1022" width="328" height="364" />
+	<SubTexture name="bf miss abajo0000" x="2664" y="1022" width="182" height="265" />
+	<SubTexture name="bf miss abajo0001" x="2850" y="1022" width="182" height="265" />
+	<SubTexture name="bf miss abajo0002" x="2850" y="1022" width="182" height="265" />
+	<SubTexture name="bf miss abajo0003" x="3037" y="1022" width="182" height="265" />
+	<SubTexture name="bf miss abajo0004" x="3223" y="1022" width="182" height="265" />
+	<SubTexture name="bf miss abajo0005" x="3223" y="1022" width="182" height="265" />
+	<SubTexture name="bf miss abajo0006" x="3410" y="1022" width="182" height="265" />
+	<SubTexture name="bf miss abajo0007" x="3410" y="1022" width="182" height="265" />
+	<SubTexture name="bf miss abajo0008" x="3596" y="1022" width="182" height="265" />
+	<SubTexture name="bf miss abajo0009" x="3596" y="1022" width="182" height="265" />
+	<SubTexture name="bf miss abajo0010" x="3783" y="1022" width="182" height="265" />
+	<SubTexture name="bf miss abajo0011" x="3783" y="1022" width="182" height="265" />
+	<SubTexture name="bf miss abajo0012" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0013" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0014" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0015" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0016" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0017" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0018" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0019" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0020" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0021" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0022" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0023" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0024" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0025" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0026" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0027" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0028" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0029" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss abajo0030" x="4" y="1390" width="182" height="265" />
+	<SubTexture name="bf miss arriba0000" x="190" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0001" x="353" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0002" x="353" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0003" x="516" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0004" x="679" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0005" x="679" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0006" x="842" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0007" x="842" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0008" x="1005" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0009" x="1005" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0010" x="1168" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0011" x="1168" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0012" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0013" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0014" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0015" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0016" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0017" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0018" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0019" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0020" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0021" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0022" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0023" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0024" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0025" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0026" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0027" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0028" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0029" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss arriba0030" x="1331" y="1390" width="159" height="347" />
+	<SubTexture name="bf miss izquierda0000" x="1494" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0001" x="1664" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0002" x="1664" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0003" x="1834" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0004" x="2004" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0005" x="2004" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0006" x="2174" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0007" x="2174" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0008" x="2344" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0009" x="2344" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0010" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0011" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0012" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0013" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0014" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0015" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0016" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0017" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0018" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0019" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0020" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0021" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0022" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0023" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0024" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0025" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0026" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0027" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0028" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0029" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0030" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bf miss izquierda0031" x="2514" y="1390" width="166" height="293" />
+	<SubTexture name="bfdown0000" x="2684" y="1390" width="181" height="267" />
+	<SubTexture name="bfdown0001" x="2869" y="1390" width="181" height="267" />
+	<SubTexture name="bfdown0002" x="2869" y="1390" width="181" height="267" />
+	<SubTexture name="bfdown0003" x="3054" y="1390" width="181" height="267" />
+	<SubTexture name="bfdown0004" x="3239" y="1390" width="181" height="267" />
+	<SubTexture name="bfdown0005" x="3239" y="1390" width="181" height="267" />
+	<SubTexture name="bfdown0006" x="3424" y="1390" width="181" height="267" />
+	<SubTexture name="bfdown0007" x="3424" y="1390" width="181" height="267" />
+	<SubTexture name="bfdown0008" x="3609" y="1390" width="181" height="267" />
+	<SubTexture name="bfdown0009" x="3609" y="1390" width="181" height="267" />
+	<SubTexture name="bfdown0010" x="3794" y="1390" width="181" height="267" />
+	<SubTexture name="bfdown0011" x="3794" y="1390" width="181" height="267" />
+	<SubTexture name="bfdown0012" x="4" y="1741" width="181" height="267" />
+	<SubTexture name="bfdown0013" x="4" y="1741" width="181" height="267" />
+	<SubTexture name="bfdown0014" x="4" y="1741" width="181" height="267" />
+	<SubTexture name="bfidle0000" x="189" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0001" x="189" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0002" x="389" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0003" x="389" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0004" x="590" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0005" x="590" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0006" x="790" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0007" x="790" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0008" x="991" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0009" x="991" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0010" x="1191" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0011" x="1191" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0012" x="1392" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0013" x="1392" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0014" x="1592" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0015" x="1592" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0016" x="1793" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0017" x="1793" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0018" x="1993" y="1741" width="196" height="322" />
+	<SubTexture name="bfidle0019" x="1993" y="1741" width="196" height="322" />
+	<SubTexture name="bfleft0000" x="2194" y="1741" width="163" height="295" />
+	<SubTexture name="bfleft0001" x="2361" y="1741" width="163" height="295" />
+	<SubTexture name="bfleft0002" x="2361" y="1741" width="163" height="295" />
+	<SubTexture name="bfleft0003" x="2529" y="1741" width="163" height="295" />
+	<SubTexture name="bfleft0004" x="2696" y="1741" width="163" height="295" />
+	<SubTexture name="bfleft0005" x="2696" y="1741" width="163" height="295" />
+	<SubTexture name="bfleft0006" x="2864" y="1741" width="163" height="295" />
+	<SubTexture name="bfleft0007" x="2864" y="1741" width="163" height="295" />
+	<SubTexture name="bfleft0008" x="3031" y="1741" width="163" height="295" />
+	<SubTexture name="bfleft0009" x="3031" y="1741" width="163" height="295" />
+	<SubTexture name="bfleft0010" x="3199" y="1741" width="163" height="295" />
+	<SubTexture name="bfleft0011" x="3199" y="1741" width="163" height="295" />
+	<SubTexture name="bfleft0012" x="3199" y="1741" width="163" height="295" />
+	<SubTexture name="bfleft0013" x="3199" y="1741" width="163" height="295" />
+	<SubTexture name="bfleft0014" x="3199" y="1741" width="163" height="295" />
+	<SubTexture name="bfright0000" x="3366" y="1741" width="247" height="312" />
+	<SubTexture name="bfright0001" x="3617" y="1741" width="247" height="312" />
+	<SubTexture name="bfright0002" x="3617" y="1741" width="247" height="312" />
+	<SubTexture name="bfright0003" x="4" y="2067" width="247" height="312" />
+	<SubTexture name="bfright0004" x="255" y="2067" width="247" height="312" />
+	<SubTexture name="bfright0005" x="506" y="2067" width="247" height="312" />
+	<SubTexture name="bfright0006" x="506" y="2067" width="247" height="312" />
+	<SubTexture name="bfright0007" x="757" y="2067" width="247" height="312" />
+	<SubTexture name="bfright0008" x="757" y="2067" width="247" height="312" />
+	<SubTexture name="bfright0009" x="1008" y="2067" width="247" height="312" />
+	<SubTexture name="bfright0010" x="1008" y="2067" width="247" height="312" />
+	<SubTexture name="bfright0011" x="1259" y="2067" width="247" height="312" />
+	<SubTexture name="bfright0012" x="1259" y="2067" width="247" height="312" />
+	<SubTexture name="bfright0013" x="1510" y="2067" width="247" height="312" />
+	<SubTexture name="bfright0014" x="1510" y="2067" width="247" height="312" />
+	<SubTexture name="bfup0000" x="1761" y="2067" width="169" height="343" />
+	<SubTexture name="bfup0001" x="1934" y="2067" width="169" height="343" />
+	<SubTexture name="bfup0002" x="1934" y="2067" width="169" height="343" />
+	<SubTexture name="bfup0003" x="2108" y="2067" width="169" height="343" />
+	<SubTexture name="bfup0004" x="2281" y="2067" width="169" height="343" />
+	<SubTexture name="bfup0005" x="2281" y="2067" width="169" height="343" />
+	<SubTexture name="bfup0006" x="2455" y="2067" width="169" height="343" />
+	<SubTexture name="bfup0007" x="2455" y="2067" width="169" height="343" />
+	<SubTexture name="bfup0008" x="2628" y="2067" width="169" height="343" />
+	<SubTexture name="bfup0009" x="2628" y="2067" width="169" height="343" />
+	<SubTexture name="bfup0010" x="2802" y="2067" width="169" height="343" />
+	<SubTexture name="bfup0011" x="2802" y="2067" width="169" height="343" />
+	<SubTexture name="bfup0012" x="2975" y="2067" width="169" height="343" />
+	<SubTexture name="bfup0013" x="2975" y="2067" width="169" height="343" />
+	<SubTexture name="bfup0014" x="2975" y="2067" width="169" height="343" />
+</TextureAtlas>

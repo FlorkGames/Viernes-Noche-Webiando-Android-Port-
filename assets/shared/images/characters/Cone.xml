@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cone.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CONE0000" x="6" y="6" width="167" height="417" frameX="-2" frameY="-4" frameWidth="169" frameHeight="421"/>
+	<SubTexture name="CONE0001" x="6" y="6" width="167" height="417" frameX="-2" frameY="-4" frameWidth="169" frameHeight="421"/>
+	<SubTexture name="CONE0002" x="179" y="6" width="163" height="414" frameX="-5" frameY="-7" frameWidth="169" frameHeight="421"/>
+	<SubTexture name="CONE0003" x="179" y="6" width="163" height="414" frameX="-5" frameY="-7" frameWidth="169" frameHeight="421"/>
+	<SubTexture name="CONE0004" x="348" y="6" width="162" height="416" frameX="-5" frameY="-5" frameWidth="169" frameHeight="421"/>
+	<SubTexture name="CONE0005" x="348" y="6" width="162" height="416" frameX="-5" frameY="-5" frameWidth="169" frameHeight="421"/>
+	<SubTexture name="CONE0006" x="516" y="6" width="166" height="420" frameX="-1" frameY="-1" frameWidth="169" frameHeight="421"/>
+	<SubTexture name="CONE0007" x="516" y="6" width="166" height="420" frameX="-1" frameY="-1" frameWidth="169" frameHeight="421"/>
+	<SubTexture name="CONE0008" x="688" y="6" width="167" height="421" frameX="0" frameY="0" frameWidth="169" frameHeight="421"/>
+	<SubTexture name="CONE0009" x="688" y="6" width="167" height="421" frameX="0" frameY="0" frameWidth="169" frameHeight="421"/>
+	<SubTexture name="CONE0010" x="688" y="6" width="167" height="421" frameX="0" frameY="0" frameWidth="169" frameHeight="421"/>
+	<SubTexture name="CONE0011" x="688" y="6" width="167" height="421" frameX="0" frameY="0" frameWidth="169" frameHeight="421"/>
+	<SubTexture name="CONE0012" x="6" y="433" width="167" height="421" frameX="0" frameY="0" frameWidth="169" frameHeight="421"/>
+	<SubTexture name="CONE0013" x="6" y="433" width="167" height="421" frameX="0" frameY="0" frameWidth="169" frameHeight="421"/>
+</TextureAtlas>
