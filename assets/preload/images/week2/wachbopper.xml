@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wachbopper.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 1 instance 10000" x="10" y="10" width="144" height="273"/>
+	<SubTexture name="Symbol 1 instance 10001" x="10" y="10" width="144" height="273"/>
+	<SubTexture name="Symbol 1 instance 10002" x="10" y="10" width="144" height="273"/>
+	<SubTexture name="Symbol 1 instance 10003" x="10" y="10" width="144" height="273"/>
+	<SubTexture name="Symbol 1 instance 10004" x="164" y="10" width="144" height="273"/>
+	<SubTexture name="Symbol 1 instance 10005" x="164" y="10" width="144" height="273"/>
+	<SubTexture name="Symbol 1 instance 10006" x="164" y="10" width="144" height="273"/>
+	<SubTexture name="Symbol 1 instance 10007" x="164" y="10" width="144" height="273"/>
+	<SubTexture name="Symbol 1 instance 10008" x="318" y="10" width="144" height="273"/>
+	<SubTexture name="Symbol 1 instance 10009" x="318" y="10" width="144" height="273"/>
+	<SubTexture name="Symbol 1 instance 10010" x="318" y="10" width="144" height="273"/>
+	<SubTexture name="Symbol 1 instance 10011" x="318" y="10" width="144" height="273"/>
+</TextureAtlas>
