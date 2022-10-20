@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Maritza_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="maritzaConfident0000" x="10" y="10" width="1668" height="1227"/>
+	<SubTexture name="maritzaConfidentIdle0000" x="10" y="10" width="1668" height="1227"/>
+	<SubTexture name="maritzaFunny0000" x="10" y="10" width="1668" height="1227"/>
+	<SubTexture name="maritzaHappyIdle0000" x="10" y="10" width="1668" height="1227"/>
+	<SubTexture name="maritzaNormal0000" x="10" y="10" width="1668" height="1227"/>
+	<SubTexture name="maritzaNormalIdle0000" x="10" y="10" width="1668" height="1227"/>
+	<SubTexture name="maritzaWhat0000" x="10" y="10" width="1668" height="1227"/>
+	<SubTexture name="maritzaWhatIdle0000" x="10" y="10" width="1668" height="1227"/>
+</TextureAtlas>

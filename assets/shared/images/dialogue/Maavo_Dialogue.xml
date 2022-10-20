@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Maavo_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mavo0000" x="10" y="10" width="648" height="717" frameX="-1" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="MavoIdle0000" x="10" y="10" width="648" height="717" frameX="-1" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="Scared0000" x="10" y="10" width="648" height="717" frameX="-1" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="ScaredIdle0000" x="10" y="10" width="648" height="717" frameX="-1" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="qwea0000" x="10" y="10" width="648" height="717" frameX="-1" frameY="0" frameWidth="649" frameHeight="717"/>
+	<SubTexture name="qweaIdle0000" x="10" y="10" width="648" height="717" frameX="-1" frameY="0" frameWidth="649" frameHeight="717"/>
+</TextureAtlas>

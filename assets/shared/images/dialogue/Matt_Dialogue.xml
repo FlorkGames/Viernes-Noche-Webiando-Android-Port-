@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Matt_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mattAngry0000" x="10" y="10" width="1707" height="1403" frameX="0" frameY="-1" frameWidth="1707" frameHeight="1405"/>
+	<SubTexture name="mattAngryIdle0000" x="10" y="10" width="1707" height="1403" frameX="0" frameY="-1" frameWidth="1707" frameHeight="1405"/>
+	<SubTexture name="mattENPUTADO0000" x="10" y="10" width="1707" height="1403" frameX="0" frameY="-1" frameWidth="1707" frameHeight="1405"/>
+	<SubTexture name="mattENPUTADOIdle0000" x="10" y="10" width="1707" height="1403" frameX="0" frameY="-1" frameWidth="1707" frameHeight="1405"/>
+	<SubTexture name="mattHappy0000" x="10" y="10" width="1707" height="1403" frameX="0" frameY="-1" frameWidth="1707" frameHeight="1405"/>
+	<SubTexture name="mattHappyIdle0000" x="10" y="10" width="1707" height="1403" frameX="0" frameY="-1" frameWidth="1707" frameHeight="1405"/>
+	<SubTexture name="mattNormal0000" x="10" y="10" width="1707" height="1403" frameX="0" frameY="-1" frameWidth="1707" frameHeight="1405"/>
+	<SubTexture name="mattNormalIdle0000" x="10" y="10" width="1707" height="1403" frameX="0" frameY="-1" frameWidth="1707" frameHeight="1405"/>
+	<SubTexture name="mattWhat0000" x="10" y="10" width="1707" height="1403" frameX="0" frameY="-1" frameWidth="1707" frameHeight="1405"/>
+	<SubTexture name="mattWhatIdle0000" x="10" y="10" width="1707" height="1403" frameX="0" frameY="-1" frameWidth="1707" frameHeight="1405"/>
+</TextureAtlas>

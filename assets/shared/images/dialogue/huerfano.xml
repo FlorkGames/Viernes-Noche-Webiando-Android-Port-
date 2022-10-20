@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="huerfano.png">
+<SubTexture name="huerfano Idle0000" x="0" y="0" width="548" height="548" frameX="0" frameY="0" frameWidth="548" frameHeight="548" />
+</TextureAtlas>

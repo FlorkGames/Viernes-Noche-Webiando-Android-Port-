@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ScoobyDou_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="holyshit0000" x="10" y="10" width="713" height="1201"/>
+	<SubTexture name="holyshitIdle0000" x="10" y="10" width="713" height="1201"/>
+	<SubTexture name="nom0000" x="10" y="10" width="713" height="1201"/>
+	<SubTexture name="nomIdle0000" x="10" y="10" width="713" height="1201"/>
+	<SubTexture name="perritohablando0000" x="10" y="10" width="713" height="1201"/>
+	<SubTexture name="perritohablandoIdle0000" x="10" y="10" width="713" height="1201"/>
+	<SubTexture name="xd0000" x="10" y="10" width="713" height="1201"/>
+	<SubTexture name="xdIdle0000" x="10" y="10" width="713" height="1201"/>
+</TextureAtlas>

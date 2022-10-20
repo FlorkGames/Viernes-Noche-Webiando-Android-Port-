@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ivette_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angi0000" x="10" y="10" width="564" height="815" frameX="0" frameY="-1" frameWidth="564" frameHeight="816"/>
+	<SubTexture name="angiIdle0000" x="10" y="10" width="564" height="815" frameX="0" frameY="0" frameWidth="564" frameHeight="816"/>
+	<SubTexture name="ivyl0000" x="10" y="10" width="564" height="815" frameX="0" frameY="0" frameWidth="565" frameHeight="815"/>
+	<SubTexture name="xd0000" x="10" y="10" width="564" height="814" frameX="0" frameY="0" frameWidth="565" frameHeight="815"/>
+</TextureAtlas>

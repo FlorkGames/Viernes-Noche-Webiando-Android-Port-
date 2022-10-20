@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="screwytalk.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boca cerrar0000" x="0" y="0" width="365" height="573"/>
+	<SubTexture name="hablar0000" x="0" y="0" width="365" height="573"/>
+</TextureAtlas>

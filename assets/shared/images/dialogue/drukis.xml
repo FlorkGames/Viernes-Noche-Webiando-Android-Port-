@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="drukis.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="drukis0000" x="10" y="10" width="302" height="321"/>
+	<SubTexture name="drukisIdle0000" x="10" y="10" width="302" height="321"/>
+</TextureAtlas>

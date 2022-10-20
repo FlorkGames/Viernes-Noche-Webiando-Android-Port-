@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bodoque.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bodoque0000" x="10" y="10" width="336" height="491"/>
+	<SubTexture name="bodoque0001" x="10" y="10" width="336" height="491"/>
+	<SubTexture name="bodoque0002" x="10" y="10" width="336" height="491"/>
+	<SubTexture name="bodoque0003" x="10" y="10" width="336" height="491"/>
+</TextureAtlas>

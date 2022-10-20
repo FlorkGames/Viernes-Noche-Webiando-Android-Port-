@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Papito_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="papaEnojao0000" x="10" y="10" width="287" height="344" frameX="-1" frameY="0" frameWidth="288" frameHeight="344"/>
+	<SubTexture name="papaFeli0000" x="10" y="10" width="287" height="344" frameX="-1" frameY="0" frameWidth="288" frameHeight="344"/>
+	<SubTexture name="papaFeliIdle0000" x="10" y="10" width="287" height="344" frameX="-1" frameY="0" frameWidth="288" frameHeight="344"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Shaggy_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ShaggFunny0000" x="10" y="10" width="1170" height="1314" frameX="-1" frameY="0" frameWidth="1171" frameHeight="1314"/>
+	<SubTexture name="ShaggHappy0000" x="10" y="10" width="1170" height="1314" frameX="-1" frameY="0" frameWidth="1171" frameHeight="1314"/>
+	<SubTexture name="ShaggHappyIdle0000" x="10" y="10" width="1170" height="1314" frameX="-1" frameY="0" frameWidth="1171" frameHeight="1314"/>
+	<SubTexture name="ShaggNormal0000" x="10" y="10" width="1170" height="1314" frameX="-1" frameY="0" frameWidth="1171" frameHeight="1314"/>
+	<SubTexture name="ShaggNormalIdle0000" x="10" y="10" width="1170" height="1314" frameX="-1" frameY="0" frameWidth="1171" frameHeight="1314"/>
+	<SubTexture name="ShaggSad0000" x="10" y="10" width="1170" height="1314" frameX="-1" frameY="0" frameWidth="1171" frameHeight="1314"/>
+</TextureAtlas>
