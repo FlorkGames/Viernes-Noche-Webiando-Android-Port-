@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GfPulenta_normal.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf20000" x="0" y="0" width="347" height="671" frameX="-22" frameY="-15" frameWidth="369" frameHeight="686"/>
+	<SubTexture name="gf20001" x="347" y="0" width="347" height="671" frameX="-22" frameY="-15" frameWidth="369" frameHeight="686"/>
+	<SubTexture name="gf20002" x="694" y="0" width="340" height="683" frameX="-12" frameY="-3" frameWidth="369" frameHeight="686"/>
+	<SubTexture name="gf20003" x="1034" y="0" width="340" height="683" frameX="-12" frameY="-3" frameWidth="369" frameHeight="686"/>
+	<SubTexture name="gf20004" x="1374" y="0" width="341" height="686" frameX="-6" frameY="0" frameWidth="369" frameHeight="686"/>
+	<SubTexture name="gf20005" x="1715" y="0" width="341" height="686" frameX="-6" frameY="0" frameWidth="369" frameHeight="686"/>
+	<SubTexture name="gf20006" x="2056" y="0" width="341" height="685" frameX="-2" frameY="-1" frameWidth="369" frameHeight="686"/>
+	<SubTexture name="gf20007" x="2397" y="0" width="341" height="685" frameX="-2" frameY="-1" frameWidth="369" frameHeight="686"/>
+	<SubTexture name="gf20008" x="2738" y="0" width="341" height="685" frameX="0" frameY="-1" frameWidth="369" frameHeight="686"/>
+	<SubTexture name="gf20009" x="3079" y="0" width="341" height="685" frameX="0" frameY="-1" frameWidth="369" frameHeight="686"/>
+	<SubTexture name="gf20010" x="3420" y="0" width="341" height="685" frameX="-2" frameY="-1" frameWidth="369" frameHeight="686"/>
+	<SubTexture name="gf20011" x="0" y="686" width="341" height="685" frameX="-2" frameY="-1" frameWidth="369" frameHeight="686"/>
+	<SubTexture name="gf20012" x="341" y="686" width="340" height="685" frameX="-3" frameY="-1" frameWidth="369" frameHeight="686"/>
+	<SubTexture name="gf20013" x="681" y="686" width="340" height="685" frameX="-3" frameY="-1" frameWidth="369" frameHeight="686"/>
+</TextureAtlas>

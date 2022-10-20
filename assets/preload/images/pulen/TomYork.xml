@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TomYork.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cat0000" x="0" y="0" width="152" height="116" frameX="-43" frameY="-28" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0001" x="152" y="0" width="152" height="116" frameX="-43" frameY="-28" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0002" x="304" y="0" width="99" height="111" frameX="-70" frameY="-40" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0003" x="403" y="0" width="99" height="111" frameX="-70" frameY="-40" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0004" x="502" y="0" width="89" height="123" frameX="-49" frameY="-21" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0005" x="591" y="0" width="89" height="123" frameX="-49" frameY="-21" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0006" x="680" y="0" width="121" height="157" frameX="-10" frameY="0" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0007" x="801" y="0" width="121" height="157" frameX="-10" frameY="0" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0008" x="0" y="157" width="159" height="97" frameX="-21" frameY="-49" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0009" x="159" y="157" width="159" height="97" frameX="-21" frameY="-49" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0010" x="318" y="157" width="162" height="96" frameX="-18" frameY="-55" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0011" x="480" y="157" width="162" height="96" frameX="-18" frameY="-55" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0012" x="642" y="157" width="155" height="156" frameX="0" frameY="-40" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0013" x="797" y="157" width="155" height="156" frameX="0" frameY="-40" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0014" x="0" y="313" width="121" height="128" frameX="-16" frameY="-61" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0015" x="121" y="313" width="121" height="128" frameX="-16" frameY="-61" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0016" x="242" y="313" width="145" height="123" frameX="-47" frameY="-31" frameWidth="195" frameHeight="196"/>
+	<SubTexture name="cat0017" x="387" y="313" width="145" height="123" frameX="-47" frameY="-31" frameWidth="195" frameHeight="196"/>
+</TextureAtlas>

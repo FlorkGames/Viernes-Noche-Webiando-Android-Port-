@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GfPulenta_Fonda.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf0000" x="0" y="0" width="354" height="671" frameX="-22" frameY="-15" frameWidth="420" frameHeight="686"/>
+	<SubTexture name="gf0001" x="354" y="0" width="354" height="671" frameX="-22" frameY="-15" frameWidth="420" frameHeight="686"/>
+	<SubTexture name="gf0002" x="708" y="0" width="408" height="683" frameX="-12" frameY="-3" frameWidth="420" frameHeight="686"/>
+	<SubTexture name="gf0003" x="1116" y="0" width="408" height="683" frameX="-12" frameY="-3" frameWidth="420" frameHeight="686"/>
+	<SubTexture name="gf0004" x="1524" y="0" width="412" height="686" frameX="-6" frameY="0" frameWidth="420" frameHeight="686"/>
+	<SubTexture name="gf0005" x="1936" y="0" width="412" height="686" frameX="-6" frameY="0" frameWidth="420" frameHeight="686"/>
+	<SubTexture name="gf0006" x="2348" y="0" width="398" height="685" frameX="-2" frameY="-1" frameWidth="420" frameHeight="686"/>
+	<SubTexture name="gf0007" x="2746" y="0" width="398" height="685" frameX="-2" frameY="-1" frameWidth="420" frameHeight="686"/>
+	<SubTexture name="gf0008" x="3144" y="0" width="385" height="685" frameX="0" frameY="-1" frameWidth="420" frameHeight="686"/>
+	<SubTexture name="gf0009" x="3529" y="0" width="385" height="685" frameX="0" frameY="-1" frameWidth="420" frameHeight="686"/>
+	<SubTexture name="gf0010" x="0" y="686" width="380" height="685" frameX="-2" frameY="-1" frameWidth="420" frameHeight="686"/>
+	<SubTexture name="gf0011" x="380" y="686" width="380" height="685" frameX="-2" frameY="-1" frameWidth="420" frameHeight="686"/>
+	<SubTexture name="gf0012" x="760" y="686" width="379" height="685" frameX="-3" frameY="-1" frameWidth="420" frameHeight="686"/>
+	<SubTexture name="gf0013" x="1139" y="686" width="379" height="685" frameX="-3" frameY="-1" frameWidth="420" frameHeight="686"/>
+</TextureAtlas>
