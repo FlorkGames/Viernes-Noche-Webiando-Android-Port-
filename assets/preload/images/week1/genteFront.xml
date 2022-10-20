@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="genteFront.png" width="2521" height="1880">
+  <SubTexture name="BopCrowdFront10" x="0" y="0"  width="1260.5" height="314.5" frameX="-0" frameY="-423.5" frameWidth="1260.5" frameHeight="738"/>
+  <SubTexture name="BopCrowdFront11" x="1260.5" y="0"  width="1260.5" height="314.5" frameX="-0" frameY="-423.5" frameWidth="1260.5" frameHeight="738"/>
+  <SubTexture name="BopCrowdFront12" x="0" y="314.5"  width="1260.5" height="314.5" frameX="-0" frameY="-423.5" frameWidth="1260.5" frameHeight="738"/>
+  <SubTexture name="BopCrowdFront4" x="1260.5" y="314.5"  width="1260.5" height="314.5" frameX="-0" frameY="-423.5" frameWidth="1260.5" frameHeight="738"/>
+  <SubTexture name="BopCrowdFront5" x="0" y="629"  width="1260.5" height="314.5" frameX="-0" frameY="-423.5" frameWidth="1260.5" frameHeight="738"/>
+  <SubTexture name="BopCrowdFront7" x="1260.5" y="629"  width="1260.5" height="314.5" frameX="-0" frameY="-423.5" frameWidth="1260.5" frameHeight="738"/>
+  <SubTexture name="BopCrowdFront8" x="0" y="943.5"  width="1260.5" height="314.5" frameX="-0" frameY="-423.5" frameWidth="1260.5" frameHeight="738"/>
+  <SubTexture name="BopCrowdFront9" x="1260.5" y="943.5"  width="1260.5" height="314.5" frameX="-0" frameY="-423.5" frameWidth="1260.5" frameHeight="738"/>
+  <SubTexture name="BopCrowdFront2" x="0" y="1258"  width="1260.5" height="313.5" frameX="-0" frameY="-424.5" frameWidth="1260.5" frameHeight="734"/>
+  <SubTexture name="BopCrowdFront3" x="1260.5" y="1258"  width="1260.5" height="313.5" frameX="-0" frameY="-424.5" frameWidth="1260.5" frameHeight="734"/>
+  <SubTexture name="BopCrowdFront0" x="0" y="1571.5"  width="1260.5" height="308.5" frameX="-0" frameY="-429.5" frameWidth="1260.5" frameHeight="738"/>
+  <SubTexture name="BopCrowdFront1" x="1260.5" y="1571.5"  width="1260.5" height="308.5" frameX="-0" frameY="-429.5" frameWidth="1260.5" frameHeight="725.5"/>
+  <SubTexture name="BopCrowdFront6" x="0" y="629"  width="1260.5" height="314.5" frameX="-0" frameY="-423.5" frameWidth="1260.5" frameHeight="738"/>
+</TextureAtlas>
