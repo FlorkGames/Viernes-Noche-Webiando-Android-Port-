@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "bgdia",
+		"player1": "bf",
+		"player2": "vipperchileno",
+		"player3": null,
+		"events": [
+			[
+				83.3333333333333,
+				[
+					[
+						"Sion",
+						"uno",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "vipper"
+	}
+}
